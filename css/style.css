@@ -1,0 +1,105 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+.font-title {
+    font-family: 'Noto Serif', serif;
+}
+.font-body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Serif', serif;
+}
+
+p, a, button,input {
+    font-family: 'Open Sans', sans-serif;
+}
+ 
+/*
+    NAVBAR
+*/
+#navbar {
+    background-color: #a3080c;
+}
+/*
+    HEADER
+*/
+#header {
+    background: #fff;
+}
+#header img {
+    height: 200px;
+}
+#header h1 {
+    color: #a3080c;
+}
+/*
+    PRODUCT
+*/
+#product {
+    background: #f2f2f2;
+}
+#product h1 {
+    color: #a3080c;
+}
+#product h5{
+    color: #a3080c;
+}
+#product p{
+    color: #a3080c;
+}
+#product .btn {
+    background-color: #a3080c;
+}
+#product .btn:hover {
+    background-color: #8b0408;
+}
+
+/*
+    CONTACT
+*/
+#contact h1{
+    color: #a3080c;
+    text-align: center;
+}
+#contact .btn{
+    background-color: #a3080c;
+}
+#contact .btn:hover{
+    background-color: #8b0408;
+}
+#contact .social-icon {
+    font-size: 40px;
+    margin-right: 20px;
+}
+#contact .fa-facebook-square {
+    color: #4267B2;
+}
+#contact .fa-twitter-square {
+    color: #1AB2E8;
+}
+#contact .fa-google-plus-square {
+    color: #DC5043;
+}
+.fa-caret-square-up {
+    display: block;
+    font-size: 30px;
+    text-align: center;
+    line-height: 40px;
+    position: fixed;
+    bottom: 40px;
+    right: 30px;
+    color: #a3080c;
+  
+}
+/*
+    FOOTER
+*/
+#footer p {
+    background: #111;
+    font-size: 0.9em;
+    padding: 10px 0 10px 117px;
+    color: #FFF;
+}
